@@ -13,3 +13,11 @@
 **Thoughts:** Single responsibility and open/closed principles to make specific classes with a defined responsibility, with high cohesion extensible and not modifiable. With basic explanation, bad and right example.
 
 **Folder:** [solid](solid)
+
+### Day 2: April 21th, 2021
+
+**Today's Progress**: Practice about the last three principles of SOLID.
+
+**Thoughts:** Liskov Substitution, Interface Segregation and Dependency inversion principles. With basic explanation, bad and right example.
+
+**Folder:** [solid](solid)
