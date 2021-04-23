@@ -21,3 +21,11 @@
 **Thoughts:** Liskov Substitution, Interface Segregation and Dependency inversion principles. With basic explanation, bad and right example.
 
 **Folder:** [solid](solid)
+
+### Day 3: April 22th, 2021
+
+**Today's Progress**: A summary about SOLID and some sources.
+
+**Thoughts:** Main information about these principles, main concepts and some good sources from internet to read more about it, even there are criticisms and criticisms to that criticisms and links to books.
+
+**File:** [solid summary](solid/0-solid-summary.md)

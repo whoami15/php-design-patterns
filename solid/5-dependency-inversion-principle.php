@@ -8,6 +8,8 @@
 
 // both high-level and low-level objects must depend on the same abstraction
 
+// Dependency inversion pattern is used, most often solved by using dependency injection
+
 /* Bad example */
 
 class Mailer
