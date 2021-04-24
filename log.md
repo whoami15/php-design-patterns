@@ -29,3 +29,12 @@
 **Thoughts:** Main information about these principles, main concepts and some good sources from internet to read more about it, even there are criticisms and criticisms to that criticisms and links to books.
 
 **File:** [solid summary](solid/0-solid-summary.md)
+
+### Day 4: April 23th, 2021
+
+**Today's Progress**: 3 common design patterns; command, factory and singleton.
+
+**Thoughts:** Not so hard patterns, even I have use factory in Laravel when I create some test data, all the data is defined in the class, not when the class is instantiated.
+
+**File:** [design patterns](design-patterns/creational)
+
