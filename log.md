@@ -38,3 +38,11 @@
 
 **File:** [design patterns](design-patterns/creational)
 
+### Day 5: April 26th, 2021
+
+**Today's Progress**: 2 common design patterns in php; adapter and strategy.
+
+**Thoughts:** Design patterns that apply some SOLID principles. Both allow scalability without alter the main behavior. I found some interesting sources in internet (even a github repository with many design patterns in php, even with test) and I create a brief summary.
+
+**File:** [design patterns](design-patterns/design-patterns.md)
+
