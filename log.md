@@ -46,3 +46,11 @@
 
 **File:** [design patterns](design-patterns/design-patterns.md)
 
+### Day 6: April 27th, 2021
+
+**Today's Progress**: 3 design patterns; observer, composite and decorator.
+
+**Thoughts:** So important the knowledge about SOLID, here I looked more design patterns that apply these principles. So useful design patterns to extend functionalities and comply the open/close principle.
+
+**File:** [design patterns](design-patterns/design-patterns.md)
+
