@@ -54,3 +54,12 @@
 
 **File:** [design patterns](design-patterns/design-patterns.md)
 
+### Day 7: April 28th, 2021
+
+**Today's Progress**: 3 design patterns; iterator, prototype and facade.
+
+**Thoughts:** Some common design patterns, I have watched facade in Laravel, Collections (from Iterator) in Symfony but Prototype I have´nt, I think it could be used in a special problem. Many tools available to solve a possible future problem with good practices.
+
+**File:** [design patterns](design-patterns/design-patterns.md)
+
+
