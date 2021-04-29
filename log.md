@@ -62,4 +62,12 @@
 
 **File:** [design patterns](design-patterns/design-patterns.md)
 
+### Day 8: April 29th, 2021
+
+**Today's Progress**: 2 design patterns; abstract factory and builder.
+
+**Thoughts:** Two common creational design patterns, I found abstract factory some difficult, TODO: I need to review it later. Builder was easier, I have worked with it as **SQL query builder**, a easier way to manage data without write SQL code, each method add SQL code to the query and at the final the entire SQL query is executed.
+
+**File:** [design patterns](design-patterns/design-patterns.md)
+
 
