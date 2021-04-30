@@ -1,7 +1,9 @@
 <?php
 
 // Here an object is used to encapsulate all information needed to perform an action
-//  or trigger an event at a later time.
+// or trigger an event at a later time.
+
+// It’s used for queueing tasks, tracking the history of executed tasks and performing the “undo”.
 
 interface CommandInterface
 {

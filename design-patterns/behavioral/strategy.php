@@ -6,6 +6,8 @@
 // The below example transfers the data from one data source to another
 // For example, transfer from database to csv file, or from spreadsheet to json file
 
+// Note: This can be implemented with a simple anonymous (lambda) function in most modern programming languages.
+
 interface ReaderInterface {
     public function start(): void;
     public function read(): array;
