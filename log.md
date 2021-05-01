@@ -78,4 +78,11 @@
 
 **File:** [design patterns](design-patterns/)
 
+### Day 10: May 1st, 2021
+
+**Today's Progress**: Design patterns; Chain of Responsibility, State and Template Method.
+
+**Thoughts:** Some behavioral design patterns. I had the Idea about Chain of Responsibility because I have used Middleware in Laravel. About State I have not used it. And finally Template Method I have not used it with PHP but I have the idea due to Hooks in Vue.js.
+
+**File:** [design patterns](design-patterns/)
 

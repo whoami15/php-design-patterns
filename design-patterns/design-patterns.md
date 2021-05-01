@@ -18,6 +18,10 @@ The most universal and high-level patterns are __architectural patterns__.
 
 Behavioral patterns take care of effective communication and the assignment of responsibilities between objects.
 
+### Chain of Responsibility
+
+It allows passing request along the chain of potential handlers until one of them handles request. One of the most famous examples is HTTP Request Middleware described in PSR-15.
+
 ### Command
 
 It converts requests or simple operations into objects.
@@ -30,9 +34,17 @@ Iterator is a behavioral design pattern that lets you traverse elements of a col
 
 It is used to notify the rest of the system about certain events in certain place.
 
+### State
+
+It allows an object to change the behavior when its internal state changes.
+
 ### Strategy
 
 It is used to separate strategies and to enable fast switching between them.
+
+### Template Method
+
+It allows you to defines a skeleton of an algorithm in a base class and let subclasses override the steps without changing the overall algorithm’s structure.
 
 ## Creational
 
