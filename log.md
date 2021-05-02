@@ -86,3 +86,10 @@
 
 **File:** [design patterns](design-patterns/)
 
+### Day 11: May 2nd, 2021
+
+**Today's Progress**: Design patterns; Bridge and Proxy.
+
+**Thoughts:** Two structural design patterns. These are not common in PHP, and these are the last I learn. I looked many similarities among these patterns and Decorator pattern, besides I have not worked with them I got confused and I search and I found more information.
+
+**File:** [design patterns](design-patterns/)
