@@ -92,4 +92,12 @@
 
 **Thoughts:** Two structural design patterns. These are not common in PHP, and these are the last I learn. I looked many similarities among these patterns and Decorator pattern, besides I have not worked with them I got confused and I search and I found more information.
 
-**File:** [design patterns](design-patterns/)
+**Folder:** [design patterns](design-patterns/)
+
+### Day 12: May 3rd, 2021
+
+**Today's Progress**: Data structures; Basic concepts.
+
+**Thoughts:** I learned about it at the university but in my PHP projects I have used just arrays to store some information. I should keep in mind about it in my future projects.
+
+**File:** [data structures](data-structures.md)
