@@ -101,3 +101,11 @@
 **Thoughts:** I learned about it at the university but in my PHP projects I have used just arrays to store some information. I should keep in mind about it in my future projects.
 
 **File:** [data structures](data-structures.md)
+
+### Day 13: May 4th, 2021
+
+**Today's Progress**: Data structures; More concepts.
+
+**Thoughts:** I learned more about Map and Set, more data structures with strengths and weakness but more effective than a simple PHP array (and even than array_unique()).
+
+**File:** [data structures](data-structures.md)

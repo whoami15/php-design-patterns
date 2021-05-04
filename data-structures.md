@@ -50,6 +50,38 @@ A Queue is a “first in, first out” or “FIFO” structure that only allows 
 
 A PriorityQueue is very similar to a Queue. Values are pushed into the queue with an assigned priority, and the value with the highest priority will always be at the front of the queue.
 
+## Hashable
+
+An interface which allows objects to be used as keys. It determines an object’s hash based on its handle: this means that two objects that are considered equal by an implicit definition would not be treated as equal because they are not the same instance.
+
+Data structures that honour the Hashable interface are Map and Set.
+
+## Map
+
+A Map is a sequential collection of key-value pairs, almost identical to an array when used in a similar context. Keys can be any type, but must be unique. Values are replaced if added to the map using the same key.
+
+### Strengths
+
+Performance and memory efficiency is almost identical to an array, automatically frees allocated memory when its size drops low enough and put, get, remove, and hasKey are O(1)
+
+### Weaknesses
+
+Can’t be converted to an array when objects are used as keys.
+
+## Set
+
+A Set is a collection of unique values. The textbook definition of a set will say that values are unordered unless an implementation specifies otherwise.
+
+Set uses the same internal structure as a Map, which is based on the same structure as an array. This means that a Set can be sorted in O(n * log(n)) time whenever it needs to be, just like a Map and an array.
+
+### Strengths
+
+Add, remove, and contains are O(1), Hhnours the Hashable interface and supports any type of value (SplObjectStorage only supports objects).
+
+### Weaknesses
+
+Doesn’t support push, pop, insert, shift, or unshift and get is O(n) if there are deleted values before the index, O(1) otherwise.
+
 ## References :books:
 
 - Theunissen, R., 2016. Efficient data structures for PHP 7. [online] Medium. Available at: <https://medium.com/@rtheunissen/efficient-data-structures-for-php-7-9dda7af674cd> [Accessed 3 May 2021].
