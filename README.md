@@ -1,12 +1,16 @@
-# Advanced PHP Topics
+# PHP design patterns
 
-_Challenge based on the [#100daysofcode](https://github.com/kallaway/100-days-of-code) to learn more about PHP and advanced programming._
+_Challenge based on the [#100daysofcode](https://github.com/kallaway/100-days-of-code) to learn about design patterns with php._
 
 ## Main Commitment
 ### *I will code for at least one hours every day until I close the challenge.*
 
 #### Start Date
+
 April 19th, 2021.
+
+#### End Date
+May 12th, 2021
 
 ## Additional Rules
 1. If I code at work, that time won't count towards the challenge.

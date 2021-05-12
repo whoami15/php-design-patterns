@@ -1,4 +1,4 @@
-# Advanced PHP topics - Log
+# PHP design patterns - Log
 
 ### Day 0: April 19th, 2021
 
